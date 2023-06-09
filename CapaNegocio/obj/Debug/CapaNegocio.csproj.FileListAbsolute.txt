@@ -1,0 +1,45 @@
+D:\PROYECTO\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaNegocio\obj\Debug\CapaNegocio.pdb

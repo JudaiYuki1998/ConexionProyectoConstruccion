@@ -1,0 +1,30 @@
+D:\PROYECTO\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROYECTO\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTO\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTO\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROYECTO\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaDatos\obj\Debug\CapaDatos.pdb

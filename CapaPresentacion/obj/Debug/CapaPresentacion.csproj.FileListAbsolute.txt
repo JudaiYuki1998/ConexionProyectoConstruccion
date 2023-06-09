@@ -1,0 +1,146 @@
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Formulariomenuopciones.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Modulos.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Roles.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarModulos.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarRoles.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarUsuarios.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpModulo.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Opmodulosver.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpcionesModuloRol.resources
+D:\PROYECTO\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.OpcioModuloRol.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpModulo.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Formulariomenuopciones.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarModulos.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarRoles.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarUsuarios.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Modulos.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpcionesModuloRol.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.OpcioModuloRol.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Opmodulosver.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Roles.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.resources
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\cliente\Desktop\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpModulo.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Formulariomenuopciones.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarModulos.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarRoles.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarUsuarios.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Modulos.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpcionesModuloRol.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.OpcioModuloRol.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Opmodulosver.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Roles.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.resources
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\PROYECTO\preliminar\preliminar\JUDAY\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpModulo.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Formulariomenuopciones.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarModulos.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarRoles.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarUsuarios.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Modulos.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpcionesModuloRol.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.OpcioModuloRol.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Opmodulosver.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Roles.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\bin\Debug\CapaPresentacion.application
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyecto\CapaPresentacion\obj\Debug\CapaPresentacion.application
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaPresentacion.application
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpModulo.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Formulariomenuopciones.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarModulos.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarRoles.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.GuardarUsuarios.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Modulos.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.AgregarOpcionesModuloRol.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.OpcioModuloRol.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Opmodulosver.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Roles.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.Usuarios.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.application
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.CrearProducto.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.ModificarUsuarios.resources
+D:\PROYECTO\PROYECTO PARA ENVIAR POE\ConexionProyectoConstruccion\CapaPresentacion\obj\Debug\CapaPresentacion.VentaLicores.resources
